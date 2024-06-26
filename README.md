@@ -11,10 +11,10 @@ dumped to the disk, respectively.
 Object-oriented programming (OOP) principles will be used 
 and appropriate data structures. 
 
-[photo1](images/photo1.png)
+![photo1](images/photo1.png)
 
-[photo2](images/photo2.png)
+![photo2](images/photo2.png)
 
-[photo3](images/photo3.png)
+![photo3](images/photo3.png)
 
-[photo4](images/photo4.png)
+![photo4](images/photo4.png)
